@@ -22,7 +22,7 @@ function App() {
       
       <Routes>
         <Route path='/about' element={<Aboutmla />}/>
-        <Route path='/home'  element={<Makkan/>}/>
+        <Route path='/'  element={<Makkan/>}/>
         <Route path='/contactus' element={<Contactus/>}/>
         
       </Routes>
