@@ -1,7 +1,7 @@
 import React from "react";
 import "../makkansingh/mla.css"
 import thakur from '../assets/thakur.jpg'
-import thakur1 from '../assets/thakur1.jpg'
+// import thakur1 from '../assets/thakur1.jpg'
 import thakur2 from '../assets/thakur 2.jpg'
 import thakur3 from '../assets/thakur 3.jpg'
 import thakur4 from '../assets/thakur 4.jpg'
