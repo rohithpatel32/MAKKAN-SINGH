@@ -1,0 +1,251 @@
+.body1{
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(https://www.cppr.in/wp-content/uploads/2021/10/nationalherald_2018-12_b43c412e-bdf0-4405-81e7-660289ccb414_indian_national_congress_turns_134_years_of_age.jpeg);
+    height: 200px;
+    
+}
+
+.bio{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    margin-top: 2opx;
+    
+
+}
+.leader{
+    text-align: center;
+    color: goldenrod;
+    font-size: 40px;
+    font-weight: bold;
+
+}
+.public{
+    text-align: center;
+    color: orange;
+    font-size: 20px;
+
+}
+.pe{
+    display: flex;
+}
+.content{
+    display: flex;
+    flex-direction: column;
+}
+.peo{
+       display: flex;
+    gap: 10px;
+    font-size: 30px;
+    
+}
+.peop{
+     margin-top: 10px;
+     font-size: 20px;
+     
+}
+.fo{
+    color: green;
+}
+
+.drop{
+    background-color: whitesmoke;
+    width: 260px;
+    height: 300px;
+}
+
+
+.drop1{
+    display: flex;
+    gap: 10px;
+}
+.inf{
+    background-color: whitesmoke;
+    width: 260px;
+    height: 300px;
+}
+.infra{
+    margin-left: 100px;
+}
+.hea{
+    background-color: whitesmoke;
+    width: 260px;
+    height: 300px;
+    margin-right:3px solid black;
+}
+
+.he{
+    margin-left: 100px;
+}
+.water1{
+    margin-left: 50px;
+}
+.infra1{
+    margin-left: 50px;
+}
+.he1{
+    margin-left: 50px;
+}
+
+.news{
+    display: flex;
+    gap: 50px;
+    margin-top: 10px;
+    margin-left: 100px;
+}
+
+.family{
+    border-radius: 10px;
+    border: 2px solid black;
+    filter: brightness(60%);
+
+    transition: transform 0.3s ease;
+}
+
+.family:hover{
+    transform: scale(1.2);
+}
+
+
+
+.project{
+     border-radius: 10px;
+    border: 2px solid black;
+    filter: brightness(60%);
+
+    transition: transform 0.3s ease;
+}
+
+.project:hover{
+    transform: scale(1.2);
+}
+
+
+.welfare{
+     border-radius: 10px;
+    border: 2px solid black;
+    filter: brightness(60%);
+    transition: transform 0.3s ease;
+}
+
+.welfare:hover{
+    transform: scale(1.2);
+}
+
+
+
+.fm{
+    position: relative;
+    width: 400px;
+}
+
+.fm img{
+    width: 100%;
+    display: block;
+}
+
+.fm h2{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    margin: 0;
+    font-size: 30px;
+     transition: color 0.3s ease;
+}
+
+   
+
+.fm h2:hover {
+    color: red;
+}
+
+.fm p{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    margin: 0;
+    font-weight: bold;
+  transition: color 0.3s ease;
+
+}
+.fm p:hover{
+    color: red;
+}
+.proj{
+    position: relative;
+    width: 400px;
+}
+
+.proj img{
+    width: 100%;
+    display: block;
+}
+
+.proj h2{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    margin: 0;
+    font-size: 30px;
+    transition: color 0.3s ease;
+}
+.proj h2:hover{
+    color: red;
+}
+.proj p{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    margin: 0;
+    font-weight: bold;
+    transition: color 0.3s ease;
+
+}
+.proj ::picker-icon:hover{
+    color: red;
+}
+.wf{
+    position: relative;
+    width: 400px;
+}
+
+.wf img{
+    width: 100%;
+    display: block;
+}
+
+.wf h2{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    margin: 0;
+    font-size: 30px;
+    transition: color 0.3s ease;
+}
+.wf h2:hover{
+    color: red;
+}
+
+.wf p{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    margin: 0;
+    font-weight: bold;
+    transition: color 0.3s ease;
+
+}
+.wf p:hover{
+    color: red;
+}

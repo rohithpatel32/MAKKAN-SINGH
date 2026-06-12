@@ -1,0 +1,30 @@
+.navbar-page{
+    display: flex;
+    justify-content: space-between;
+    border-bottom:  solid green;
+}
+.navbar-list ul{
+    display: flex;
+    gap: 40px;
+    text-decoration: none;
+    margin-right: 50px;
+    
+    
+}
+ul {
+    list-style: none;   /* Removes dots */
+}
+
+ul li {
+    display: inline-block; /* Horizontal menu */
+}
+
+ul li a {
+    text-decoration: none; /* Removes underline */
+    color: black;
+}
+
+.navlogin{
+    background-color: green;
+    padding: 5px;
+}

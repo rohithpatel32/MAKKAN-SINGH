@@ -1,0 +1,531 @@
+
+.body{
+    background-color: blanchedalmond;
+}
+.container{
+    background-color:white;
+    display: flex;
+    align-items: center;
+    gap: 2opx;
+    padding: 5px;
+    height: 100px;
+    position: fixed;
+    border-bottom: 5px solid green;
+    width: 1510px;
+    z-index: 9999;
+    
+}
+
+.mla{
+    font-weight: bold;
+    color: orange;
+    margin-bottom: 2px;
+    margin: 0px;
+    
+}
+
+.mla1{
+    color: green;
+    font-weight: bold;
+    margin: 0px;
+    font-size: 20px;
+
+}
+
+.mlaphoto{
+
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+.link{
+    display: flex;
+    gap: 20px;
+    margin-left: 400px;
+}
+
+.main{
+    
+    background-color: orange;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+.ach{
+    border: none;
+    background: none;
+    font-size: 16px;
+}
+
+.mul{
+    border: none;
+    background: none;
+     font-size: 16px;
+
+}
+
+.home{
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+     display: inline-block;
+    margin-top: 8px;
+
+}
+
+.about{
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+    display: inline-block;
+    margin-top: 8px;
+
+
+}
+.aco{
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+     display: inline-block;
+    margin-top: 8px;
+}
+
+.con{
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+     display: inline-block;
+    margin-top: 8px;
+}
+.bu{
+    margin-left: 20px;
+}
+
+.thakur{
+    height: 500px;
+    width: 1200px;
+    border: 3px solid black;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+.drive{
+    display: flex;
+    gap: 5px;
+    margin-left: 500px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.orange{
+    color: orange;
+    font-weight: bold;
+}
+.pa{
+    margin-left: 300px;
+    font-size: 20px;
+}
+
+.paaa{
+    margin-left: 700px;
+    font-size: 20px;
+}
+
+.card1{
+    width: 350px;
+    margin-left: 100px;
+     border: 1px solid #ddd;
+     padding: 25px;
+     text-align: center;
+     box-shadow: 0 4px 15px rgba(0, 123, 255, 0.5);
+     background-color: white;
+        object-fit: cover;
+
+}
+
+.revanth{
+    transition: transform 0.3s ease;
+}
+
+.revanth:hover{
+    transform: scale(1.2);
+}
+
+.card2{
+    width: 350px;
+    border: 1px solid #ddd;
+    padding: 25px;
+    text-align: center;
+    box-shadow: 0 4px 15px rgba(0, 123, 255, 0.5);
+    background-color: white;
+
+
+}
+.water{
+    transition: transform 0.3s ease;
+    
+
+}
+.water:hover{
+    transform: scale(1.2);
+}
+.card3{
+    width: 350px;
+    border: 1px solid #ddd;
+    padding: 25px;
+    text-align: center;
+    box-shadow: 0 4px 15px rgba(0, 123, 255, 0.5);
+    background-color: white;
+
+
+}
+
+.praja{
+    transition: transform 0.3s ease;
+
+}
+.praja:hover{
+    transform: scale(1.2);
+}
+
+.cardflex{
+    display: flex;
+    gap: 30px;
+
+}
+.wardissue{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    background-color: whitesmoke;
+    margin-top: 50px;
+    margin-left: 100px;
+    width: 1270px;
+    border-radius: 10px;
+    border-bottom: 4px solid green;
+}
+
+.report{
+    display: flex;
+    flex-direction: column;
+    
+}
+.p1{
+    margin-top: -0.5cm;
+    
+}
+
+.repbtn{
+    background-color: greenyellow;
+    width: 180px;
+    height: 40px;
+    margin-top: 50px;
+    margin-left: 400px;
+    border-radius: 10px;
+}
+
+.cont{
+     display: flex;
+    align-items: center;
+    gap: 30px;
+
+}
+
+.content{
+    flex: 1;
+    margin-left: 100px;
+    
+    font-size: 20px;
+}
+.tha {
+    margin-right: 110px;
+}
+
+.legacy{
+    font-weight: bold;
+}
+.excel{
+    color: orange;
+    margin-top: -0.9cm;
+}
+.pulse{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    font-size: 25px;
+}
+
+.pulse1{
+    font-weight: 900;
+    color: green;
+    
+}
+
+.thakur11{
+    margin-left: 100px;
+      
+}
+.press{
+    background-color: white;
+    display: inline-block;
+    border-radius: 15px;
+    margin-right: 50px;
+    height: 130px;
+}
+.events{
+    background-color: white;
+    display: inline-block;
+    border-radius: 15px;
+    margin-right: 50px;
+    height: 130px;
+
+}
+.hmtv{
+    display: flex;
+    
+}
+.col{
+    display: grid;
+    gap: 50px;
+    margin-left: 1cm;
+    
+    
+    
+  
+}
+.release{
+      color: green;
+      margin-left: 20px;
+}
+
+.release1{
+    color: green;
+    margin-left: 20px;
+}
+.con{
+    margin-left: 20px;
+
+}
+.con1{
+    margin-left: 20px;
+}
+.bag{
+    display: flex;
+    gap: 20px;
+    margin-left: 100px;
+    margin-right: 50px;
+    height: 130px;
+    margin-top: 20px;
+    
+}
+.bag1{
+    background-color: white;
+    border-radius: 15px;
+    
+}
+.bag2{
+    background-color: white;
+     border-radius: 15px;
+}
+.bag3{
+    background-color: white;
+     border-radius: 15px;
+}
+.ha1{
+    color: green;
+    margin-left: 20px;
+}
+.ha2{
+     color: green;
+    margin-left: 20px;
+
+}
+.ha3{
+     color: green;
+    margin-left: 20px;
+}
+.pa1{
+    margin-left: 20px;
+    font-size: 16.5px;
+}
+.pa2{
+     
+    margin-left: 20px;
+}
+.pa3{
+    margin-left: 20px;
+}
+.peo{
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+}
+
+.peo1{
+font-family: arial;
+font-size: 50px;
+}
+
+.peo2{
+    color: green;
+    font-family: arial;
+    font-size: 50px;
+    
+}
+.slider {
+    width: 100%;
+    overflow: hidden;
+}
+
+.roll {
+    display: flex;
+    gap: 20px;
+    width: max-content;
+    animation: marquee 20s linear infinite;
+}
+
+.roll img {
+    height: 170px;
+    border-radius: 20px;
+    object-fit: cover;
+    flex-shrink: 0;
+}
+
+@keyframes marquee {
+    from {
+        transform: translateX(0);
+    }
+    to {
+        transform: translateX(calc(-50% - 10px));
+    }
+}
+
+
+#btn button{
+    background-color: green;
+    margin-left: 700px;
+    padding: 10px;
+    width: 200px;
+    margin-top: 30px;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+.follow{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+     margin-top: 30px;
+}
+
+.text{
+    color: green;
+    font-weight: bold;
+   
+}
+
+.accounts{
+    display: flex;
+    gap: 30px;
+    margin-left: 50px;
+    
+}
+
+.facebook{
+    
+    margin-left: 100px;
+}
+
+.fb{
+    font-size: 20px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+.fb1{
+    transition: transform 0.3s ease;
+}
+
+.fb1:hover{
+    transform: scale(1.2);
+}
+
+
+.in{
+    font-size: 20px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    font-weight: bold;
+
+}
+.in1{
+    transition: transform 0.3s ease;
+}
+
+.in1:hover{
+    transform: scale(1.2);
+}
+
+
+.yt{
+    font-size: 20px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    font-weight: bold;
+
+
+}
+.yt1{
+    transition: transform 0.3s ease;
+}
+
+.yt1:hover{
+    transform: scale(1.2);
+}
+
+
+.tw{
+    font-size: 20px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    font-weight: bold;
+
+
+}
+.tw1{
+    transition: transform 0.3s ease;
+}
+
+.tw1:hover{
+    transform: scale(1.2);
+}
+
+
+.foot{
+    background: black;
+     height: 100px;
+     display: flex;
+     margin-top: 30px;
+}
+
+.singh{
+     font-weight: bold;
+    color: orange;
+    margin-bottom: 2px;
+    margin: 0px;
+}
+.raj{
+    color: green;  
+    font-weight: bold;
+    margin: 0px;
+    font-size: 20px;
+    
+}
+.social img{
+    
+    margin-left: 40px;
+}
+
+.social{
+    margin-left: 750px;
+    margin-top: 25px;
+}
